@@ -1,0 +1,23 @@
+#main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 95vh;
+    width: 100%;
+    background-color: black;
+    border: 4px solid yellow;
+
+}
+table{
+    width: 40%;
+    height: 40%;
+    border: 4px solid yellow;
+
+}
+h1{
+    color: white;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
